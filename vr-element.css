@@ -1,7 +1,5 @@
 div.vr {
-  border-left: 1px solid #808080;
+  background-color: #A0A0A0;
   height: 100%;
-  margin-left: 0;
-  margin-right: 0;
   width: 1px;
 }
