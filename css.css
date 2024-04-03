@@ -23,4 +23,5 @@ a, h1, h2, h3, h4, h5, h6, p, pre {
 	border: solid 2px;
 	background-color: grey;
 	color: white;
+	height: 70px;
 }
