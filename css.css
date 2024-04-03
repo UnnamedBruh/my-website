@@ -1,0 +1,26 @@
+@font-face {
+	font-family: Inter;
+	src: url('https://unnamedbruh.github.io/my-website/inter-regular.ttf') format('ttf');
+}
+
+a, h1, h2, h3, h4, h5, h6, p, pre {
+	font-family: 'Inter', sans-serif;
+}
+
+.donothover {
+	cursor: not-allowed
+}
+
+.pointerhover {
+	cursor: pointer
+}
+
+.helphover {
+	cursor: help
+}
+
+#tabs {
+	border: solid 2px;
+	background-color: grey;
+	color: white;
+}
